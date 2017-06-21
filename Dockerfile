@@ -1,0 +1,2 @@
+FROM colmena/colmena:latest
+
